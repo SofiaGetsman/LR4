@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/sofiagecman/Desktop/lr4",
+      "program": "/Users/sofiagecman/Desktop/lr4/build/Debug/outDebug"
+    }
+  ]
+}
